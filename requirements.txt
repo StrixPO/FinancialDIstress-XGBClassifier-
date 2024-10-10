@@ -4,7 +4,7 @@ streamlit
 pandas
 joblib
 matplotlib
-sklearn
+scikit-learn
 xgboost
 scipy 
 imblearn
